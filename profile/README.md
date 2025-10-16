@@ -1,0 +1,1 @@
+Evento realizado anualmente pela Sociedade Brasileira de Computação (SBC) desde 2010 como agregador de simpósios brasileiros área de software, o CBSoft tornou-se um dos principais eventos da comunidade científica brasileira na área de Computação.
